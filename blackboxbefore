@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Electronic Store</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Product Catalog</a></li>
+                <li><a href="#">Search Catalog</a></li>
+                <li><a href="#">Filters</a></li>
+                <li><a href="#">Reviews and Ratings</a></li>
+                <li><a href="#">Subscription</a></li>
+                <li><a href="#">Log In</a></li>
+                <li><a href="#">Gaming Zone</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="product-catalog">
+            <!-- Product catalog code goes here -->
+        </section>
+        <section id="search-catalog">
+            <!-- Search catalog code goes here -->
+        </section>
+        <section id="filters">
+            <!-- Filters code goes here -->
+        </section>
+        <section id="reviews-and-ratings">
+            <!-- Reviews and ratings code goes here -->
+        </section>
+        <section id="subscription">
+            <!-- Subscription code goes here -->
+        </section>
+        <section id="one-click-ordering">
+            <!-- One-click ordering code goes here -->
+        </section>
+        <section id="suggest-products">
+            <!-- Suggest products code goes here -->
+        </section>
+        <section id="gaming-zone">
+            <!-- Gaming zone code goes here -->
+        </section>
+        <section id="offers">
+            <!-- Offers code goes here -->
+        </section>
+    </main>
+    <footer>
+        <!-- Footer code goes here -->
+    </footer>
+</body>
+</html>
